@@ -1,3 +1,1 @@
-esse é o 01
-
-blablabla
+Projeto de estudo sobre GIT!
