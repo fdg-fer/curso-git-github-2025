@@ -1,1 +1,1 @@
-Projeto de estudo sobre GIT!
+O projeto de estudo sobre GIT!
